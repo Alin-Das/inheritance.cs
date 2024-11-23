@@ -1,0 +1,14 @@
+F:\OOP 2\LabClass 4 (22-46379-1)\LabClass 4 (22-46379-1)\bin\Debug\net8.0\LabClass 4 (22-46379-1).exe
+F:\OOP 2\LabClass 4 (22-46379-1)\LabClass 4 (22-46379-1)\bin\Debug\net8.0\LabClass 4 (22-46379-1).deps.json
+F:\OOP 2\LabClass 4 (22-46379-1)\LabClass 4 (22-46379-1)\bin\Debug\net8.0\LabClass 4 (22-46379-1).runtimeconfig.json
+F:\OOP 2\LabClass 4 (22-46379-1)\LabClass 4 (22-46379-1)\bin\Debug\net8.0\LabClass 4 (22-46379-1).dll
+F:\OOP 2\LabClass 4 (22-46379-1)\LabClass 4 (22-46379-1)\bin\Debug\net8.0\LabClass 4 (22-46379-1).pdb
+F:\OOP 2\LabClass 4 (22-46379-1)\LabClass 4 (22-46379-1)\obj\Debug\net8.0\LabClass 4 (22-46379-1).GeneratedMSBuildEditorConfig.editorconfig
+F:\OOP 2\LabClass 4 (22-46379-1)\LabClass 4 (22-46379-1)\obj\Debug\net8.0\LabClass 4 (22-46379-1).AssemblyInfoInputs.cache
+F:\OOP 2\LabClass 4 (22-46379-1)\LabClass 4 (22-46379-1)\obj\Debug\net8.0\LabClass 4 (22-46379-1).AssemblyInfo.cs
+F:\OOP 2\LabClass 4 (22-46379-1)\LabClass 4 (22-46379-1)\obj\Debug\net8.0\LabClass 4 (22-46379-1).csproj.CoreCompileInputs.cache
+F:\OOP 2\LabClass 4 (22-46379-1)\LabClass 4 (22-46379-1)\obj\Debug\net8.0\LabClass 4 (22-46379-1).dll
+F:\OOP 2\LabClass 4 (22-46379-1)\LabClass 4 (22-46379-1)\obj\Debug\net8.0\refint\LabClass 4 (22-46379-1).dll
+F:\OOP 2\LabClass 4 (22-46379-1)\LabClass 4 (22-46379-1)\obj\Debug\net8.0\LabClass 4 (22-46379-1).pdb
+F:\OOP 2\LabClass 4 (22-46379-1)\LabClass 4 (22-46379-1)\obj\Debug\net8.0\LabClass 4 (22-46379-1).genruntimeconfig.cache
+F:\OOP 2\LabClass 4 (22-46379-1)\LabClass 4 (22-46379-1)\obj\Debug\net8.0\ref\LabClass 4 (22-46379-1).dll

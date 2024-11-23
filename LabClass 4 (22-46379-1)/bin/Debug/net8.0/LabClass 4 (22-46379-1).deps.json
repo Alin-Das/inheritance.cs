@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "LabClass 4 (22-46379-1)/1.0.0": {
+        "runtime": {
+          "LabClass 4 (22-46379-1).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LabClass 4 (22-46379-1)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
